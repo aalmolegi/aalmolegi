@@ -20,7 +20,7 @@ A **Data Science Teacher** with a keen interest in **Machine Learning** and **Ar
 
 - ⚛️ Data Science @ **neuefische academy**
 - 🌱 Currently learning advanced tools for **Time Series Analysis** and **Natural Language Processing (NLP)**
-- 📄 My research articles can be found on **iNSPIRE**
+- 📄 My research articles can be found on [**Google Scholar**](https://scholar.google.es/citations?user=0BXbg4IAAAAJ&hl=en&oi=ao)
 
 ---
 
