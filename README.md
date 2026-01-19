@@ -24,10 +24,7 @@ A **Data Science Teacher** specialising in **Machine Learning** and **Artificial
 
 ---
 
-<details>
-  <summary><strong>🔧 My Toolkit</strong></summary>
-
-  <br>
+## 🔧 My Toolkit
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -49,11 +46,7 @@ A **Data Science Teacher** specialising in **Machine Learning** and **Artificial
   ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
-</details>
-
 ---
-
-## 🤝 Feel Free to Reach Out!
 
 ## 💼 **LinkedIn:** [**LinkedIn**](https://www.linkedin.com/in/abdulrahman-al-molegi-ph-d-61912b45/)
 
