@@ -20,7 +20,7 @@ A **Data Science Teacher** specialising in **Machine Learning** and **Artificial
 
 - ⚛️ Data Science @ **neuefische academy**.
 - 🌱 Currently learning **MLOps** and **LLMOps**, including model deployment, monitoring, and CI/CD for ML systems.
-- 📄 My research articles can be found on [**Google Scholar**](https://scholar.google.es/citations?user=0BXbg4IAAAAJ&hl=en&oi=ao)
+- 📄 My research articles can be found on [**Google Scholar**](https://scholar.google.es/citations?user=0BXbg4IAAAAJ&hl=en&oi=ao).
 
 ---
 
