@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 # Hi, I'm Abdulrahman 👋
 
 ## 👨‍🏫 About Me
-A **Data Science Teacher** with a keen interest in **Machine Learning** and **Artificial Intelligence**.
+A **Data Science Teacher** specialising in **Machine Learning** and **Artificial Intelligence**.
 
 - ⚛️ Data Science @ **neuefische academy**
-- 🌱 Currently learning advanced tools for **Time Series Analysis** and **Natural Language Processing (NLP)**
+- 🌱 Currently learning **MLOps** and **LLMOps**, including model deployment, monitoring, and CI/CD for ML systems.
 - 📄 My research articles can be found on [**Google Scholar**](https://scholar.google.es/citations?user=0BXbg4IAAAAJ&hl=en&oi=ao)
 
 ---
@@ -55,6 +55,6 @@ A **Data Science Teacher** with a keen interest in **Machine Learning** and **Ar
 
 ## 🤝 Feel Free to Reach Out!
 
-- 💼 **LinkedIn:** [**LinkedIn**](https://www.linkedin.com/in/abdulrahman-al-molegi-ph-d-61912b45/)
+## 💼 **LinkedIn:** [**LinkedIn**](https://www.linkedin.com/in/abdulrahman-al-molegi-ph-d-61912b45/)
 
 😃 I'm always open to collaboration, teaching, and interesting discussions.
