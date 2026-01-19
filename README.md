@@ -48,6 +48,11 @@ A **Data Science Teacher** specialising in **Machine Learning** and **Artificial
 
 ---
 
-## 💼 **LinkedIn:** [**LinkedIn**](https://www.linkedin.com/in/abdulrahman-al-molegi-ph-d-61912b45/)
+## Feel free to reach out! 😃
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-al-molegi-ph-d-61912b45/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahman.almolegi@gmail.com)
+
 
 😃 I'm always open to collaboration, teaching, and interesting discussions.
